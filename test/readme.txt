@@ -1,0 +1,2 @@
+The script to run the smoke test is test and this will open up a sample website and execute two tests in parallel.
+this stage is to test and get selenium working with Mocha framewrok, Chai and mochawesome libraries.
