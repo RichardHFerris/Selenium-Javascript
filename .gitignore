@@ -8,6 +8,9 @@ secrets.txt
 chromedriver
 #Reporting Package for Mocha which for some reason did not put itself under node_modules
 mochawesome-report
+#Removal of Test Reports that are generated as a result of the tests
+/Test-Reports
+
 
 ### Node ###
 # Logs
